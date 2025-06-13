@@ -55,13 +55,18 @@ O projeto contempla as seguintes conversões:
 Funcionamento dos Menus:
 
 ● O usuário escolhe a categoria de conversão por meio de um menu suspenso. 
+
 ● Os campos de unidade de origem e destino são atualizados automaticamente com 
 base na categoria escolhida. 
+
 ● O valor inserido é convertido conforme as unidades definidas, e o resultado é exibido 
 de forma imediata. 
+
 Esse modelo simplificado garante objetividade, clareza na usabilidade e facilita a validação 
 dos resultados durante a apresentação. 
+
 Divisão de Responsabilidades 
+
 A equipe é composta por dois integrantes, com as seguintes responsabilidades: 
 ● Responsável pelo HTML e CSS: 
 Desenvolvimento da interface gráfica, estruturação semântica do conteúdo e 
